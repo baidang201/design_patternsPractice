@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.db
+创建型模式/抽象工厂模式/AbstractFactory/AbstractFactory.vcxproj.filters
+*.suo
+Debug
+*.opendb
