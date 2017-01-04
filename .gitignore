@@ -50,3 +50,4 @@ Temporary Items
 *.suo
 Debug
 *.opendb
+*.filters
