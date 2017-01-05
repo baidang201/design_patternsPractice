@@ -9,3 +9,5 @@
 
 
 Favor Composition Over Inheritance=>能用组合的地方，就不要用继承
+
+桥接是二维的变量使用场景。多个A和多个B组合成一个可用的整体。
